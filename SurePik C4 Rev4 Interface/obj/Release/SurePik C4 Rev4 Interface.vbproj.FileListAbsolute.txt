@@ -1,0 +1,34 @@
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev3 Interface\bin\Release\SurePik C4 Rev4 Interface.exe.config
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev3 Interface\obj\Release\Interop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev3 Interface\obj\Release\AxInterop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev3 Interface\obj\Release\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.exe.config
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\Interop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\AxInterop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.exe
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.pdb
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.xml
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\Interop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\AxInterop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\ResolveAssemblyReference.cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik_C4_Rev4_Interface.Resources.resources
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.vbproj.GenerateResource.Cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.exe
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.xml
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.pdb
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik_C4_Rev4_Interface.frmInterface.resources
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.exe.config
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\Interop.TND8NTAGLib.dll
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\AxInterop.TND8NTAGLib.dll
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.exe
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.xml
+C:\aWave' Software\Projects\SJF\software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Release\SurePik C4 Rev4 Interface.exe.config
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\Interop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\AxInterop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.xml
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Release\SurePik C4 Rev4 Interface.pdb

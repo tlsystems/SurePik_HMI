@@ -1,0 +1,12 @@
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\bin\Debug\TndNTag.dll
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\bin\Debug\TndNTag.pdb
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\obj\Debug\TndNTag.csproj.CoreCompileInputs.cache
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\obj\Debug\TndNTag.dll
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\obj\Debug\TndNTag.pdb
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TndNTag\obj\Debug\TndNTag.csproj.AssemblyReference.cache
+D:\.TND10\TndNTag\TndNTag\obj\Debug\TndNTag.csproj.AssemblyReference.cache
+D:\.TND10\TndNTag\TndNTag\obj\Debug\TndNTag.csproj.CoreCompileInputs.cache
+D:\.TND10\TndNTag\TndNTag\obj\Debug\TndNTag.dll
+D:\.TND10\TndNTag\TndNTag\obj\Debug\TndNTag.pdb
+D:\.TND10\TndNTag\TndNTag\bin\Debug\TndNTag.dll
+D:\.TND10\TndNTag\TndNTag\bin\Debug\TndNTag.pdb

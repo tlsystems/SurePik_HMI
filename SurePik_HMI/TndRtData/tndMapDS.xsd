@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="tndRTMapDS" targetNamespace="http://tempuri.org/tndRTMapDS.xsd" xmlns:mstns="http://tempuri.org/tndRTMapDS.xsd" xmlns="http://tempuri.org/tndRTMapDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="tndRTMapDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="tndRTMapDS" msprop:Generator_UserDSName="tndRTMapDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="RuntimeMap" msprop:Generator_TableClassName="RuntimeMapDataTable" msprop:Generator_TableVarName="tableRuntimeMap" msprop:Generator_RowChangedName="RuntimeMapRowChanged" msprop:Generator_TablePropName="RuntimeMap" msprop:Generator_RowDeletingName="RuntimeMapRowDeleting" msprop:Generator_RowChangingName="RuntimeMapRowChanging" msprop:Generator_RowEvHandlerName="RuntimeMapRowChangeEventHandler" msprop:Generator_RowDeletedName="RuntimeMapRowDeleted" msprop:Generator_RowClassName="RuntimeMapRow" msprop:Generator_UserTableName="RuntimeMap" msprop:Generator_RowEvArgName="RuntimeMapRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Version" msprop:Generator_ColumnVarNameInTable="columnVersion" msprop:Generator_ColumnPropNameInRow="Version" msprop:Generator_ColumnPropNameInTable="VersionColumn" msprop:Generator_UserColumnName="Version" type="xs:string" minOccurs="0" />
+              <xs:element name="ProjectName" msprop:Generator_ColumnVarNameInTable="columnProjectName" msprop:Generator_ColumnPropNameInRow="ProjectName" msprop:Generator_ColumnPropNameInTable="ProjectNameColumn" msprop:Generator_UserColumnName="ProjectName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataItem" msprop:Generator_TableClassName="DataItemDataTable" msprop:Generator_TableVarName="tableDataItem" msprop:Generator_TablePropName="DataItem" msprop:Generator_RowDeletingName="DataItemRowDeleting" msprop:Generator_RowChangingName="DataItemRowChanging" msprop:Generator_RowEvHandlerName="DataItemRowChangeEventHandler" msprop:Generator_RowDeletedName="DataItemRowDeleted" msprop:Generator_UserTableName="DataItem" msprop:Generator_RowChangedName="DataItemRowChanged" msprop:Generator_RowEvArgName="DataItemRowChangeEvent" msprop:Generator_RowClassName="DataItemRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OID" msprop:Generator_ColumnVarNameInTable="columnOID" msprop:Generator_ColumnPropNameInRow="OID" msprop:Generator_ColumnPropNameInTable="OIDColumn" msprop:Generator_UserColumnName="OID" type="xs:string" />
+              <xs:element name="Tagname" msprop:Generator_ColumnVarNameInTable="columnTagname" msprop:Generator_ColumnPropNameInRow="Tagname" msprop:Generator_ColumnPropNameInTable="TagnameColumn" msprop:Generator_UserColumnName="Tagname" default="">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="InitialValue" msprop:Generator_ColumnVarNameInTable="columnInitialValue" msprop:Generator_ColumnPropNameInRow="InitialValue" msprop:Generator_ColumnPropNameInTable="InitialValueColumn" msprop:Generator_UserColumnName="InitialValue" default="">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="MaxStrlen" msdata:Caption="MaxStrLen" msprop:Generator_ColumnVarNameInTable="columnMaxStrlen" msprop:Generator_ColumnPropNameInRow="MaxStrlen" msprop:Generator_ColumnPropNameInTable="MaxStrlenColumn" msprop:Generator_UserColumnName="MaxStrlen" type="xs:int" default="255" />
+              <xs:element name="ReadOnly" msprop:Generator_ColumnVarNameInTable="columnReadOnly" msprop:Generator_ColumnPropNameInRow="ReadOnly" msprop:Generator_ColumnPropNameInTable="ReadOnlyColumn" msprop:Generator_UserColumnName="ReadOnly" type="xs:boolean" default="false" />
+              <xs:element name="Retentive" msprop:Generator_ColumnVarNameInTable="columnRetentive" msprop:Generator_ColumnPropNameInRow="Retentive" msprop:Generator_ColumnPropNameInTable="RetentiveColumn" msprop:Generator_UserColumnName="Retentive" type="xs:boolean" default="false" />
+              <xs:element name="RTID" msprop:Generator_ColumnVarNameInTable="columnRTID" msprop:Generator_ColumnPropNameInRow="RTID" msprop:Generator_ColumnPropNameInTable="RTIDColumn" msprop:Generator_UserColumnName="RTID" type="xs:string" default="" />
+              <xs:element name="ArrayType" msprop:Generator_ColumnVarNameInTable="columnArrayType" msprop:Generator_ColumnPropNameInRow="ArrayType" msprop:Generator_ColumnPropNameInTable="ArrayTypeColumn" msprop:Generator_UserColumnName="ArrayType" type="xs:int" default="0" />
+              <xs:element name="ArrayRTID" msprop:Generator_ColumnVarNameInTable="columnArrayRTID" msprop:Generator_ColumnPropNameInRow="ArrayRTID" msprop:Generator_ColumnPropNameInTable="ArrayRTIDColumn" msprop:Generator_UserColumnName="ArrayRTID" type="xs:string" default="" />
+              <xs:element name="ArraySize" msprop:Generator_ColumnVarNameInTable="columnArraySize" msprop:Generator_ColumnPropNameInRow="ArraySize" msprop:Generator_ColumnPropNameInTable="ArraySizeColumn" msprop:Generator_UserColumnName="ArraySize" type="xs:int" default="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

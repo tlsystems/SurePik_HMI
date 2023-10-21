@@ -1,0 +1,22 @@
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\bin\Debug\Test_TndNTag.exe.config
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\bin\Debug\Test_TndNTag.exe
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\bin\Debug\Test_TndNTag.pdb
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\bin\Debug\TndNTag.dll
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\bin\Debug\TndNTag.pdb
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.AssemblyReference.cache
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.TestTndNTag_CS.resources
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.Properties.Resources.resources
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.GenerateResource.cache
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.CoreCompileInputs.cache
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.CopyComplete
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.exe
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.pdb
+D:\.TND10\xUser Projects\UTP40 SurePik\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.TestTndNTag_VB.resources
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.AssemblyReference.cache
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.TestTndNTag_CS.resources
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.Properties.Resources.resources
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.TestTndNTag_VB.resources
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.GenerateResource.cache
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\TestTndNTag_CS.csproj.CoreCompileInputs.cache
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.exe
+D:\.TND10\TndNTag\TestTndNTag_CS\obj\Debug\Test_TndNTag.pdb

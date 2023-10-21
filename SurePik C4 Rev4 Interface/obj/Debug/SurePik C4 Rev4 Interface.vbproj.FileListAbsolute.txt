@@ -1,0 +1,32 @@
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.exe.config
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.exe
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.pdb
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.xml
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\Interop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\AxInterop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\Interop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\AxInterop.TND8NTAGLib.dll
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik_C4_Rev4_Interface.Resources.resources
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.vbproj.GenerateResource.Cache
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.exe
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.xml
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.pdb
+C:\SJF\CAROUSEL SURE-PIK\DEV\Software\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik_C4_Rev4_Interface.frmInterface.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.exe.config
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\SurePik C4 Rev4 Interface.xml
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\Interop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\bin\Debug\AxInterop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\Interop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\AxInterop.TND8NTAGLib.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.vbproj.ResolveComReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik_C4_Rev4_Interface.frmInterface.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik_C4_Rev4_Interface.Resources.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.exe
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.xml
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\SurePik C4 Rev4 Interface\SurePik C4 Rev4 Interface\obj\Debug\SurePik C4 Rev4 Interface.pdb

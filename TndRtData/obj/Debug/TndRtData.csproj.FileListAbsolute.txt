@@ -1,0 +1,11 @@
+D:\.TND10\TndNTag\TndRtData\obj\Debug\TndRtData.csproj.CoreCompileInputs.cache
+D:\.TND10\TndNTag\TndRtData\obj\Debug\TndNTag.dll
+D:\.TND10\TndNTag\TndRtData\obj\Debug\TndNTag.pdb
+D:\.TND10\TndNTag\TndRtData\bin\Debug\TndNTag.dll
+D:\.TND10\TndNTag\TndRtData\bin\Debug\TndNTag.pdb
+D:\.TND10\SurePik_HMI\TndRtData\bin\Debug\TndNTag.dll
+D:\.TND10\SurePik_HMI\TndRtData\bin\Debug\TndNTag.pdb
+D:\.TND10\SurePik_HMI\TndRtData\obj\Debug\TndRtData.csproj.AssemblyReference.cache
+D:\.TND10\SurePik_HMI\TndRtData\obj\Debug\TndRtData.csproj.CoreCompileInputs.cache
+D:\.TND10\SurePik_HMI\TndRtData\obj\Debug\TndNTag.dll
+D:\.TND10\SurePik_HMI\TndRtData\obj\Debug\TndNTag.pdb
